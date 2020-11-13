@@ -168,7 +168,7 @@ namespace LibraryManagement.Controllers
                     //Assign Role to user Here       
                     await this.UserManager.AddToRoleAsync(user.Id, model.UserRoles);
                     //Ends Here     
-                    return RedirectToAction("Index", "User");
+                    return RedirectToAction("Catalogue", "User");
                 }
                 ViewBag.Name = new SelectList(context.Roles.Where(u => !u.Name.Contains("Admin"))
                                           .ToList(), "Name", "Name");
