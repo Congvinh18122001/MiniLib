@@ -1,0 +1,14 @@
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\ADIAss.core.dll.config
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\ADIAss.core.dll
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\ADIAss.core.pdb
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\EntityFramework.dll
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\EntityFramework.SqlServer.dll
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\EntityFramework.xml
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\bin\Debug\EntityFramework.SqlServer.xml
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.csproj.CoreCompileInputs.cache
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.csproj.CopyComplete
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.dll
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.pdb
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.Migrations.ADIAssignmentv1.resources
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.csproj.GenerateResource.cache
+D:\SEM3\ADI\LibraryManagement\ADIAss.core\obj\Debug\ADIAss.core.csprojAssemblyReference.cache
